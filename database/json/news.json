@@ -1,0 +1,31 @@
+{
+  "news": [
+    {
+      "code": "855634133869",
+      "icon": "https://cdn.discordapp.com/avatars/849617280245432340/3b11b85c7054df0bcb444ed8480d3dbf.webp?size=4096",
+      "banner": "https://www.andromo.com/blog/wp-content/uploads/2020/12/news-1.jpg",
+      "ownerID": "720632216236851260",
+      "serverName": "Dhvit",
+      "date": "6/10/2021, 9:20:17 AM",
+      "description": "Added Vote Webhook System which is now available for Every Bot"
+    },
+    {
+      "code": "283642131365",
+      "icon": "https://cdn.discordapp.com/avatars/849617280245432340/3b11b85c7054df0bcb444ed8480d3dbf.webp?size=4096",
+      "banner": "https://www.andromo.com/blog/wp-content/uploads/2020/12/news-1.jpg",
+      "ownerID": "720632216236851260",
+      "serverName": "Dhvit",
+      "date": "6/15/2021, 11:34:08 AM",
+      "description": "Added News, Updated Team Page, Added Premium And Many More!!"
+    },
+    {
+      "code": "325782539132",
+      "icon": "https://cdn.discordapp.com/avatars/720632216236851260/9f6488c4519f572b233e4a48ad9d4ec2.webp",
+      "banner": "https://www.andromo.com/blog/wp-content/uploads/2020/12/news-1.jpg",
+      "ownerID": "720632216236851260",
+      "serverName": "Official owner of Dumb Bot List",
+      "date": "6/24/2021, 4:30:15 PM",
+      "description": "Added Servers List and Vanity All Things for Free!!!"
+    }
+  ]
+}

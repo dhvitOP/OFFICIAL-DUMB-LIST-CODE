@@ -1,0 +1,103 @@
+{
+  "team": [
+    {
+      "code": "181113845543",
+      "icon": "https://cdn.discordapp.com/avatars/720632216236851260/9f6488c4519f572b233e4a48ad9d4ec2.webp",
+      "ownerID": "720632216236851260",
+      "serverName": "Dhvit",
+      "color": "#0067ff",
+      "rank": "Administrator",
+      "description": "Founder of This Website"
+    },
+    {
+      "code": "715332386978",
+      "icon": "https://cdn.discordapp.com/avatars/720218422222520410/a810fc5ce3103276af1bb21bb1c81e4d.webp?size=4096",
+      "ownerID": "720218422222520410",
+      "serverName": "! MSV",
+      "color": "#0067ff",
+      "rank": "Administrator",
+      "description": "Server And Bot Owner"
+    },
+    {
+      "code": "979289781214",
+      "icon": "https://cdn.discordapp.com/avatars/800331322089537538/40343c5a9b6e3d3ca353a73daab7417c.webp?size=4096",
+      "ownerID": "800331322089537538",
+      "serverName": "hypsterOP",
+      "color": "#ff9900",
+      "rank": "Manager",
+      "description": "Server and Bot Manager"
+    },
+    {
+      "code": "297444237339",
+      "icon": "https://cdn.discordapp.com/avatars/711769701541347381/2896888c9be45f6c111b3c844c84eee4.webp?size=4096",
+      "ownerID": "711769701541347381",
+      "serverName": "SVS BNG",
+      "color": "#0067ff",
+      "rank": "Administrator",
+      "description": "Bots Administrator"
+    },
+    {
+      "code": "927376127451",
+      "icon": "https://cdn.discordapp.com/avatars/780029934163722280/61b0525fe45b30e9f363491c4080a319.webp?size=4096",
+      "ownerID": "780029934163722280",
+      "serverName": "EE3",
+      "color": "#0067ff",
+      "rank": "Administrator",
+      "description": "Helper in Code of Website and bot"
+    },
+    {
+      "code": "788175573341",
+      "icon": "https://cdn.discordapp.com/avatars/848944049591418901/a_45c3d225be9f99a757c7f14dbbdf1ee0.gif?size=4096",
+      "ownerID": "848944049591418901",
+      "serverName": "Danav/Snuke",
+      "color": "#ff9900",
+      "rank": "Manager",
+      "description": "Partners Manager"
+    },
+    {
+      "code": "977653242196",
+      "icon": "https://cdn.discordapp.com/avatars/743173584935190620/cae1ab6505283ba31930289806cdf022.webp?size=4096",
+      "ownerID": "743173584935190620",
+      "serverName": "Rohit",
+      "color": "#00b9ff",
+      "rank": "Bot reviewer",
+      "description": "Bot reviewer And GFX Artist"
+    },
+    {
+      "code": "146837263328",
+      "icon": "https://cdn.discordapp.com/avatars/613311607858266133/414751e12157fe856335cadde0bc418d.webp?size=4096",
+      "ownerID": "613311607858266133",
+      "serverName": "Yash",
+      "color": "#0067ff",
+      "rank": "Administrator",
+      "description": "Staff Administrator/Manager"
+    },
+    {
+      "code": "921245199174",
+      "icon": "https://cdn.discordapp.com/avatars/801035171289366538/a_1dabe1e1157f19f6e76e5c993f9c45e3.gif?size=4096",
+      "ownerID": "801035171289366538",
+      "serverName": "Trash Panda",
+      "color": "#00b9ff",
+      "rank": "Bot reviewer",
+      "description": "Bot Reviewer and Suggestor"
+    },
+    {
+      "code": "944556843793",
+      "icon": "https://cdn.discordapp.com/avatars/831181411448651796/d8e38d60de2242fa5d6bdd5d59feefd5.webp",
+      "ownerID": "831181411448651796",
+      "serverName": "Kenx",
+      "color": "#00b9ff",
+      "rank": "Bot reviewer",
+      "description": "Bot Reviewer"
+    },
+    {
+      "code": "945582692113",
+      "icon": "https://cdn.discordapp.com/avatars/846270805863301130/3fc496df9d230478ed4be4667b515312.webp",
+      "ownerID": "846270805863301130",
+      "serverName": "ThunderBloxRocks",
+      "color": "#00b9ff",
+      "rank": "Bot reviewer",
+      "description": "Bot reviewer"
+    }
+  ]
+}
